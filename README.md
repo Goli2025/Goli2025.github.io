@@ -1,1 +1,0 @@
-# Goli2025.github.io
