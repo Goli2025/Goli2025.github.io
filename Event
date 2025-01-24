@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            body {
+                font-family:arial,sans-serif;
+                background-color:rgb(247, 232, 247);
+            }
+            h1 {
+                text-align:center;
+                color:rgb(219, 92, 126);
+                
+            }
+            h2 {
+                text-align:center;
+                color:rgb(34, 214, 242);
+            }
+            li {
+                margin:15px;
+                font-size:18px;
+            }
+            button {
+                margin:33px;
+                transform:translate(167%,-7%);
+                padding:16px;
+                left:250px;
+                background-color:rgb(76, 96, 184);
+                border-radius:5px;
+                border-color:rgb(240, 159, 88);
+                cursor:pointer;
+                color:rgb(14, 245, 134);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        <h2>To Golrokh's Birthday Party!</h2>
+        
+        <p>The details:</p>
+        <ul>
+            <li><strong>Date:</strong>Friday , August 20th</li>
+            <li><strong>Time:</strong>5:00 PM</li>
+            <li><strong>Location:</strong>Barbican , London</li>
+        </ul>
+        <button>Will You Join?</button>
+        
+    </body>
+</html>
